@@ -1,0 +1,30 @@
+/*{
+    color: blue;
+}*/
+
+header{
+    background-color: #f0ebeb;
+}
+section.my-article{
+    background-color: #f2e9e9;
+}
+header p{
+    color: red;
+}
+li a{
+    color: blue;
+
+}
+
+section.my-article >h2{
+    color: green;
+}
+h2+p{
+    column-rule-color: orange;
+}
+ul+p{
+    color: green;
+}
+section.my-article h2+p{
+    color: aqua;
+}

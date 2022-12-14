@@ -1,0 +1,25 @@
+
+h1{
+    background-color: lightgrey;
+    margin-right: 100px;
+    padding: 10px 50px 10px 50px;
+    margin-left: 100px;
+    text-align: center;
+    
+}
+.me{
+    border-style: solid;
+    border-width: 2px;
+    margin-left: 100px;
+    margin-right: 100px;
+    padding: 10px;
+    
+
+}
+.lilly{
+    border-style: solid;
+    border-width: 2px;
+    margin-left: 100px;
+    margin-right: 100px;
+    padding: 10px;
+}

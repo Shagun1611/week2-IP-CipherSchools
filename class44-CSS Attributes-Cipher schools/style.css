@@ -1,0 +1,19 @@
+input[type ="text"]{
+    color: red;
+    background-color: aqua;
+}
+input[type="password"]{
+    background: pink;
+}
+a[herf *="google"]{
+    color: red;
+}
+a[herf ^="https"]{
+    color: green;
+}
+a[herf $=".com"]{
+    color: red;
+}
+input[type ^="type"]{
+    color: green;
+}

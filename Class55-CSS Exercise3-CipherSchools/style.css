@@ -1,0 +1,29 @@
+*{
+    margin-left: 30px;
+    margin-right: 30px;
+    padding: 0px;
+}
+a{
+    color: black;
+    text-decoration: none;
+}
+nav{
+    background-color: lightgray;
+    text-align: center;
+    color: black;
+}
+div h3{
+    text-decoration-line: underline;
+}
+nav li{
+    list-style: none;
+    display: inline-block;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    margin-left: 20px;
+    margin-right: 20px;
+    border-bottom: 1px solid black;
+}
+h2{
+    border-bottom: 1px solid black;
+}

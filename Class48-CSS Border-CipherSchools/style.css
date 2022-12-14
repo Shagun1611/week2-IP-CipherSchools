@@ -1,0 +1,17 @@
+h1{
+    border: 4px solid red;
+    border-radius: 10px;
+}
+p{
+    border-width: 4px;
+    border-color: green;
+    border-style: dashed;
+}
+span{
+    border-width: 3px;
+    border-style: ridge;
+    border-color: blueviolet;
+}
+img{
+    border: 5px solid violet;
+}
